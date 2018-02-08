@@ -1,0 +1,6 @@
+C:\Users\Andrew4699\Documents\Visual Studio 2015\Projects\RapidComms - Server\Server Template\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Andrew4699\Documents\Visual Studio 2015\Projects\RapidComms - Server\Server Template\bin\Debug\ConsoleApplication.exe
+C:\Users\Andrew4699\Documents\Visual Studio 2015\Projects\RapidComms - Server\Server Template\bin\Debug\ConsoleApplication.pdb
+C:\Users\Andrew4699\Documents\Visual Studio 2015\Projects\RapidComms - Server\Server Template\obj\x86\Debug\RapidComms - Server.csprojResolveAssemblyReference.cache
+C:\Users\Andrew4699\Documents\Visual Studio 2015\Projects\RapidComms - Server\Server Template\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\Andrew4699\Documents\Visual Studio 2015\Projects\RapidComms - Server\Server Template\obj\x86\Debug\ConsoleApplication.pdb

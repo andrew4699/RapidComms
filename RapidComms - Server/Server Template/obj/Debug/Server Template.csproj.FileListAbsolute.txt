@@ -1,0 +1,12 @@
+C:\Users\Andrew4699\Documents\Visual Studio 2015\Projects\Server Template\Server Template\bin\Debug\Server Template.exe.config
+C:\Users\Andrew4699\Documents\Visual Studio 2015\Projects\Server Template\Server Template\bin\Debug\Server Template.exe
+C:\Users\Andrew4699\Documents\Visual Studio 2015\Projects\Server Template\Server Template\bin\Debug\Server Template.pdb
+C:\Users\Andrew4699\Documents\Visual Studio 2015\Projects\Server Template\Server Template\obj\Debug\Server Template.csprojResolveAssemblyReference.cache
+C:\Users\Andrew4699\Documents\Visual Studio 2015\Projects\Server Template\Server Template\obj\Debug\Server Template.exe
+C:\Users\Andrew4699\Documents\Visual Studio 2015\Projects\Server Template\Server Template\obj\Debug\Server Template.pdb
+C:\Users\Andrew4699\Documents\Visual Studio 2015\Projects\RapidComms - Server\Server Template\bin\Debug\Server Template.exe.config
+C:\Users\Andrew4699\Documents\Visual Studio 2015\Projects\RapidComms - Server\Server Template\obj\Debug\Server Template.exe
+C:\Users\Andrew4699\Documents\Visual Studio 2015\Projects\RapidComms - Server\Server Template\obj\Debug\Server Template.pdb
+C:\Users\Andrew4699\Documents\Visual Studio 2015\Projects\RapidComms - Server\Server Template\obj\Debug\Server Template.csprojResolveAssemblyReference.cache
+C:\Users\Andrew4699\Documents\Visual Studio 2015\Projects\RapidComms - Server\Server Template\bin\Debug\Server Template.exe
+C:\Users\Andrew4699\Documents\Visual Studio 2015\Projects\RapidComms - Server\Server Template\bin\Debug\Server Template.pdb

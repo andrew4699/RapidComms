@@ -1,0 +1,9 @@
+C:\Users\Andrew4699\Documents\Visual Studio 2015\Projects\RapidComms\RapidComms\bin\Debug\RapidComms.exe.config
+C:\Users\Andrew4699\Documents\Visual Studio 2015\Projects\RapidComms\RapidComms\bin\Debug\RapidComms.exe
+C:\Users\Andrew4699\Documents\Visual Studio 2015\Projects\RapidComms\RapidComms\bin\Debug\RapidComms.pdb
+C:\Users\Andrew4699\Documents\Visual Studio 2015\Projects\RapidComms\RapidComms\obj\Debug\RapidComms.csprojResolveAssemblyReference.cache
+C:\Users\Andrew4699\Documents\Visual Studio 2015\Projects\RapidComms\RapidComms\obj\Debug\RapidComms.Form1.resources
+C:\Users\Andrew4699\Documents\Visual Studio 2015\Projects\RapidComms\RapidComms\obj\Debug\RapidComms.Properties.Resources.resources
+C:\Users\Andrew4699\Documents\Visual Studio 2015\Projects\RapidComms\RapidComms\obj\Debug\RapidComms.csproj.GenerateResource.Cache
+C:\Users\Andrew4699\Documents\Visual Studio 2015\Projects\RapidComms\RapidComms\obj\Debug\RapidComms.exe
+C:\Users\Andrew4699\Documents\Visual Studio 2015\Projects\RapidComms\RapidComms\obj\Debug\RapidComms.pdb
